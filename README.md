@@ -1,5 +1,5 @@
-# frontendI
+# FrontEnd I
 
-All frontend I proyects made for Certified Tech Developer by Digital House
+All FrontEnd I proyects made for Certified Tech Developer by Digital House
 
-# projectLemonPie: https://winst0npy.github.io/frontendI/projectLemonPie/
+### projectLemonPie: https://winst0npy.github.io/frontendI/projectLemonPie/
