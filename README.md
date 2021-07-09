@@ -10,8 +10,8 @@ All FrontEnd I proyects made for Certified Tech Developer by Digital House.
 >
 > Adding the first HTML tags. The most used ones are: list, paragraph, imagen.
 >
-> - projectLemonPie: *https://winst0npy.github.io/frontendI/projectLemonPie/*
+> - LemonPie: *https://winst0npy.github.io/frontendI/projectLemonPie/*
 >
 > ### Class 06:
 >
-> - PetShop:
+> - PetShop: *https://winst0npy.github.io/frontendI/PetShop/*
