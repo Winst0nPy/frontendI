@@ -1,0 +1,44 @@
+h1 {
+    background-color: #C4C4C4;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #005677;
+    line-height: 30px;
+    box-align: center;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+h2 {
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    background-color: #C4C4C4;
+}
+
+
+span {
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    align-self: center;
+}
+
+.footer {
+    align-self: fixed;
+    width: 100%;
+    background-color: #005677;
+    color: #FFFFFF;
+}

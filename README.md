@@ -15,3 +15,7 @@ All FrontEnd I proyects made for Certified Tech Developer by Digital House.
 > ### Class 06:
 >
 > - PetShop: *https://winst0npy.github.io/frontendI/PetShop/*
+
+> ### Class 07:
+>
+> - cvBatman: *https://winst0npy.github.io/frontendI/cvBatman/*
