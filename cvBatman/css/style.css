@@ -46,6 +46,11 @@
     line-height: 30px;
 }
 
+span {
+    font-weight: bold;
+}
+
+
 .main_section {
     display: inline-flexbox;
     padding-block: -50%;
@@ -64,8 +69,6 @@
     text-indent: 15px;
     height: 45px;
 }
-
-
 
 .footer_batman {
     display: flex;

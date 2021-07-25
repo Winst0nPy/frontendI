@@ -1,0 +1,27 @@
+/* Estilos generales */
+
+img {
+    width: 20%;
+    height: 20%;
+    padding: 10px;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+h1 {
+    width: 80%;
+    font-size: 4.5vw;
+
+}
+
+h1,
+h3 {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    text-align: justify;
+    font-stretch: wider;
+}
+
+span {
+    font-weight: bold;
+}
