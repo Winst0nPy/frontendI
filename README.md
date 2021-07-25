@@ -19,3 +19,15 @@ All FrontEnd I proyects made for Certified Tech Developer by Digital House.
 > ### Class 07:
 >
 > - cvBatman: *https://winst0npy.github.io/frontendI/cvBatman/*
+
+> ### Class 08:
+>
+> - cvPersonal: *https://winst0npy.github.io/frontendI/cvPersonal/*
+>
+> ### Class 09:
+>
+> - Heroes: *https://winst0npy.github.io/frontendI/Heroes/*
+>
+> ### Class 10:
+>
+> - PizzaFront: *https://winst0npy.github.io/frontendI/PizzaFront/*
