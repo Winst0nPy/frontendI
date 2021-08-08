@@ -163,3 +163,24 @@ a {
     justify-content: space-between;
     align-items: center;
 }
+
+/** Responsive **/
+@media screen and (max-width: 768px) {
+    main .container {
+        flex-direction: column;
+    }
+
+    main section .card {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    header .hamburguesa {
+        display: block;
+    }
+
+    header nav ul {
+        display: none;
+    }
+}

@@ -1,73 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import 'base.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'cards.css';
 
-/* Estilos Generales */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-main {
-    display: flex;
-    margin: 5%;
-    align-items: top;
-}
-
-.card {
-    border: 1px solid #0000;
-    width: 50%;
-}
-
-
-.card-img {
-    overflow: hidden;
-    position: relative;
-    height: 150px;
-    width: 150px;
-    object-fit: cover;
-    border-radius: 100px;
-    border: 1px solid black;
-    justify-items: center;
-}
-
-.card-img img {
-    position: absolute;
-    width: auto;
-    height: 100%;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.batman-avatar img {
-    height: 130%;
-}
-
-.superman-avatar img {
-    height: 130%;
-}
-
-
-header {
-    display: flex;
-    background-color: rgba(0, 102, 159, 1);
-    height: 70px;
-    box-shadow: 5px 10px rgba(0, 0, 0, 0.05);
-    align-items: center;
-}
-
-h1 {
-    padding-left: 20px;
-    font-family: 'Roboto', sans-serif;
-}
-
-.info {
-    background-color: rgba(28, 209, 176, 1);
-}
-
-main p {
-    margin: 20px;
-    text-align: justify;
-    font-family: Roboto, sans-serif;
-    font-size: 20px;
+:root {
+    --color-principal: rgba(0, 102, 159, 1);
 }

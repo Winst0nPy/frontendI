@@ -1,0 +1,30 @@
+/* HEADER */
+
+header {
+    display: flex;
+    background-color: var(--color-principal);
+    height: 80px;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.05);
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+header p {
+    background-color: rgba(28, 209, 176, 1);
+    width: 100%;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+h1 {
+    padding-left: 10px;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 30px;
+}

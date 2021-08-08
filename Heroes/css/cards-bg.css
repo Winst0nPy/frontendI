@@ -1,0 +1,15 @@
+.card-batman .card-bg {
+    background-image: url(../assets/img/fondo_batman.png);
+}
+
+.card-harley .card-bg {
+    background-image: url(../assets/img/fondo_harley.png);
+}
+
+.card-superman .card-bg {
+    background-image: url(../assets/img/fondo_superman_2.png);
+}
+
+.card-wonderwoman .card-bg {
+    background-image: url(../assets/img/fondo_mujer_maravilla.png);
+}

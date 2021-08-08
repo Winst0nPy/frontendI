@@ -1,0 +1,14 @@
+.card-avatar-container {
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: -4.3rem;
+    border: 1px solid;
+}
+
+.card-avatar {
+    object-fit: contain;
+    max-width: 100%;
+}

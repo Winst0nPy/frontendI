@@ -1,0 +1,68 @@
+@import 'cards-bg.css';
+@import 'cards-avatar.css';
+/* CARDS */
+
+#card-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#card-section>* {
+    flex: 1 1 15em;
+}
+
+.card {
+    width: 18.75rem;
+    height: 33.06rem;
+    margin: 0.93rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.card-bg {
+    height: 12.06rem;
+    padding: 0.93rem 1.31rem;
+    font-size: 1.62;
+}
+
+.card-icon {
+    color: #CC2424;
+}
+
+.card-content {
+    height: 21.06rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    background-color: #F3F3F3;
+    padding: 1rem;
+}
+
+.card__bottom {
+    text-align: center;
+}
+
+.card-content h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 60px;
+}
+
+.card-content p {
+    margin: 0.62rem 0 2.31rem;
+    text-align: justify;
+    font-size: 0.8rem;
+}
+
+
+.card-button {
+    background-color: #00669F;
+    padding: 0.93rem 2.31rem;
+    color: white;
+    font-size: 0.93rem;
+    margin-bottom: 1.17rem;
+    border-radius: 8%;
+    position: absolute;
+    bottom: 0;
+    transform: translateY(-50%) translateX(-50%);
+}
