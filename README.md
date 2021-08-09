@@ -31,3 +31,7 @@ All FrontEnd I proyects made for Certified Tech Developer by Digital House.
 > ### Class 10:
 >
 > - PizzaFront: *https://winst0npy.github.io/frontendI/PizzaFront/*
+
+> ### Class 18:
+>
+> - GhostCat: *https://winst0npy.github.io/frontendI/ghostCat/*
